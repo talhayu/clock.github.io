@@ -1,0 +1,28 @@
+h1{
+    border: .1rem solid black;
+    width: 25%;
+    height: 2rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: auto;
+    font-size: 1.7rem;
+    padding: 2rem;
+    color: black;
+    text-transform: capitalize;
+}
+button{
+    display: block;
+    margin: auto;
+    margin-top: 2rem;
+    text-transform: uppercase;
+    background-color: rgba(23, 23, 222, 0.996);
+    border: .1rem solid rgba(74, 136, 74, 0.54);
+    padding: .5rem 2rem;
+    color: #fff;
+}
+button:hover{
+    background-color: #fff;
+    border: .1rem solid  rgba(23, 23, 222, 0.996);
+    color:  rgba(23, 23, 222, 0.996);
+}
