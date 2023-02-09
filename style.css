@@ -6,7 +6,7 @@ h1{
     align-items: center;
     justify-content: center;
     margin: auto;
-    font-size: 1.7rem;
+    font-size: 1rem;
     padding: 2rem;
     color: black;
     text-transform: capitalize;
@@ -26,3 +26,13 @@ button:hover{
     border: .1rem solid  rgba(23, 23, 222, 0.996);
     color:  rgba(23, 23, 222, 0.996);
 }
+/* @media screen and (max-width:786px) {
+    html{
+        font-size: 50%;
+    }
+}
+@media screen and (max-width:400px) {
+    html{
+        font-size: 45%;
+    }
+} */
